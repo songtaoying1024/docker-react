@@ -7,3 +7,4 @@ before_install:
 
 script:
     - docker build taoying/docker-react npm run test -- --coverage
+
